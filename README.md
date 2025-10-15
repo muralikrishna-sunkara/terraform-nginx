@@ -1,7 +1,3 @@
-Here’s a sample README.md for your repository:
-
----
-
 # terraform-nginx
 
 Terraform code to deploy NGINX
