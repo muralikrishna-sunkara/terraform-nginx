@@ -2,6 +2,9 @@
 
 Terraform code to deploy NGINX
 
+
+![nginx-ec2](https://github.com/user-attachments/assets/3643b0fc-7b1e-4f64-b094-5ef2d4c1b801)
+
 ## Overview
 
 This repository contains Terraform configurations that automate the deployment of an NGINX web server. All infrastructure code is written in [HCL](https://www.terraform.io/language), making it easy to customize and deploy NGINX in various environments.
